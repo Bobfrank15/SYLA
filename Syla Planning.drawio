@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="80O1czMgiMTwlfRExiNg">
-    <mxGraphModel dx="5264" dy="4645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="3619" dy="3194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,21 @@
             <mxPoint x="430" y="3640" as="sourcePoint" />
             <mxPoint x="3540" y="3640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T7JlaxBG5MG438nkqAev-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#6F0000,#CC0000);strokeWidth=10;" value="" vertex="1">
+          <mxGeometry height="1230" width="2760" x="740" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="T7JlaxBG5MG438nkqAev-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=81;" value="Rusted Exterior" vertex="1">
+          <mxGeometry height="130" width="680" x="760" y="2230" as="geometry" />
+        </mxCell>
+        <mxCell id="T7JlaxBG5MG438nkqAev-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=19;strokeColor=light-dark(#000000,#81FFFF);" value="" vertex="1">
+          <mxGeometry height="990" width="990" x="1880" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="T7JlaxBG5MG438nkqAev-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=81;" value="The Head" vertex="1">
+          <mxGeometry height="130" width="680" x="1820" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="T7JlaxBG5MG438nkqAev-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#F8F8F8);strokeWidth=25;" value="" vertex="1">
+          <mxGeometry height="1980" width="2210" x="950" y="3670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
